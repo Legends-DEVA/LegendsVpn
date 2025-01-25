@@ -1,0 +1,11 @@
+README.md
+setup.py
+legendsvpn/__init__.py
+legendsvpn/cli.py
+legendsvpn/core.py
+legendsvpn.egg-info/PKG-INFO
+legendsvpn.egg-info/SOURCES.txt
+legendsvpn.egg-info/dependency_links.txt
+legendsvpn.egg-info/entry_points.txt
+legendsvpn.egg-info/requires.txt
+legendsvpn.egg-info/top_level.txt
