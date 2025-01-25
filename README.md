@@ -1,0 +1,2 @@
+# LegendsVpn
+A Legendary Vpn
